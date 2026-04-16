@@ -1,2 +1,17 @@
-# book-recommendation-system
-A machine learning project for personalized book recommendations based on user preferences and data analysis."
+# Book Recommendation System
+
+## Description
+This project recommends books based on user preferences.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Files
+- notebooks/: Jupyter notebooks
+- data/: datasets used
+
+## How to Run
+1. Open main.ipynb
+2. Run all cells
