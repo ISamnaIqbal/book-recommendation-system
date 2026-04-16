@@ -1,0 +1,129 @@
+🔍 Search Books,output,timestamp
+,,2026-01-13 14:33:56.119928
+dragon books,"📚 **Top matches for 'dragon books'**:
+
+1. **Dragon's Treasure**  *by Elizabeth A. Lynn*
+   ⭐ 3.53/5  |  📊 56% match
+
+2. **Harrowing the Dragon**  *by Patricia A. McKillip*
+   ⭐ 3.94/5  |  📊 48% match
+
+3. **The Girl, the Dragon, and the Wild Magic**  *by Dave Luckett*
+   ⭐ 3.86/5  |  📊 33% match",2026-01-13 14:34:06.027491
+fantasy dragon,"📚 **Top matches for 'fantasy dragon'**:
+
+1. **Dragon's Treasure**  *by Elizabeth A. Lynn*
+   ⭐ 3.53/5  |  📊 54% match
+
+2. **Harrowing the Dragon**  *by Patricia A. McKillip*
+   ⭐ 3.94/5  |  📊 45% match
+
+3. **The Girl, the Dragon, and the Wild Magic**  *by Dave Luckett*
+   ⭐ 3.86/5  |  📊 31% match",2026-01-13 14:37:49.568870
+fantasy dragon,"📚 **Top matches for 'fantasy dragon'**:
+
+1. **Dragon's Treasure**  *by Elizabeth A. Lynn*
+   ⭐ 3.53/5  |  📊 54% match
+
+2. **Harrowing the Dragon**  *by Patricia A. McKillip*
+   ⭐ 3.94/5  |  📊 45% match
+
+3. **The Girl, the Dragon, and the Wild Magic**  *by Dave Luckett*
+   ⭐ 3.86/5  |  📊 31% match",2026-01-13 14:37:54.327275
+fantasy,"🔥 **Hybrid Recommendations for 'fantasy'**
+
+*(70% Content Match + 30% Popularity)*
+
+1. **Harry Potter and the Sorcerer's Stone (Book 1)** *by Rowling, J.K.*
+   ⭐ 4.5/5 | 📊 30% match
+
+2. **Bedlam's Edge** *by Mercedes Lackey;Rosemary Edghill*
+   ⭐ 3.9/5 | 📊 24% match
+
+3. **The Tombs of Atuan** *by Ursula K. Le Guin*
+   ⭐ 4.1/5 | 📊 22% match
+
+4. **The Mad Ship** *by Robin Hobb*
+   ⭐ 4.2/5 | 📊 20% match
+
+5. **The White Wolf's Son** *by Michael Moorcock*
+   ⭐ 3.9/5 | 📊 20% match",2026-01-13 14:57:27.020682
+romance love,"'
+    <div style=""font-family: Arial, sans-serif;"">
+        <h2 style=""color: #2563eb;"">🔥 Hybrid Recommendations</h2>
+        <p><i>70% Content Match + 30% Popularity | Query: ""romance love""</i></p>
+    
+            <div style=""display: flex; margin: 15px 0; padding: 15px; 
+                       border: 1px solid #e5e7eb; border-radius: 12px; 
+                       background: #f9fafb;"">
+                <img src=""http://books.google.com/books/content?id=9jA0BgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"" width=""90"" height=""135"" 
+                     style=""border-radius: 8px; margin-right: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"">
+                <div style=""flex: 1;"">
+                    <h3 style=""margin: 0 0 8px 0; color: #1f2937;"">1. Harry Potter and the Sorcerer's Stone (Book 1)</h3>
+                    <p style=""margin: 0 0 4px 0; color: #6b7280; font-size: 14px;"">
+                        by <b>Rowling, J.K.</b>
+                    </p>
+                    <p style=""margin: 0; color: #059669; font-weight: bold;"">
+                        ⭐ 4.5/5 | 📊 30%
+                    </p>
+                </div>
+            </div>
+            
+            <div style=""padding: 20px; margin: 15px 0; border: 1px solid #e5e7eb; 
+                       border-radius: 12px; background: #f9fafb;"">
+                <h3 style=""margin: 0 0 10px 0;"">2. Twilight</h3>
+                <p style=""margin: 0 0 5px 0; color: #6b7280;"">by Stephenie Meyer</p>
+                <p style=""margin: 0; color: #059669; font-weight: bold;"">
+                    ⭐ 3.6/5 | 📊 28%
+                </p>
+                <small style=""color: #9ca3af;"">(No cover available)</small>
+            </div>
+            
+            <div style=""display: flex; margin: 15px 0; padding: 15px; 
+                       border: 1px solid #e5e7eb; border-radius: 12px; 
+                       background: #f9fafb;"">
+                <img src=""http://books.google.com/books/content?id=TRMEDVrkf9EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"" width=""90"" height=""135"" 
+                     style=""border-radius: 8px; margin-right: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"">
+                <div style=""flex: 1;"">
+                    <h3 style=""margin: 0 0 8px 0; color: #1f2937;"">3. The Art of Loving</h3>
+                    <p style=""margin: 0 0 4px 0; color: #6b7280; font-size: 14px;"">
+                        by <b>Erich Fromm</b>
+                    </p>
+                    <p style=""margin: 0; color: #059669; font-weight: bold;"">
+                        ⭐ 4.0/5 | 📊 23%
+                    </p>
+                </div>
+            </div>
+            
+            <div style=""display: flex; margin: 15px 0; padding: 15px; 
+                       border: 1px solid #e5e7eb; border-radius: 12px; 
+                       background: #f9fafb;"">
+                <img src=""http://books.google.com/books/content?id=srU7PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"" width=""90"" height=""135"" 
+                     style=""border-radius: 8px; margin-right: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"">
+                <div style=""flex: 1;"">
+                    <h3 style=""margin: 0 0 8px 0; color: #1f2937;"">4. Love Beyond Reason</h3>
+                    <p style=""margin: 0 0 4px 0; color: #6b7280; font-size: 14px;"">
+                        by <b>Sandra Brown</b>
+                    </p>
+                    <p style=""margin: 0; color: #059669; font-weight: bold;"">
+                        ⭐ 3.6/5 | 📊 22%
+                    </p>
+                </div>
+            </div>
+            
+            <div style=""display: flex; margin: 15px 0; padding: 15px; 
+                       border: 1px solid #e5e7eb; border-radius: 12px; 
+                       background: #f9fafb;"">
+                <img src=""http://books.google.com/books/content?id=0B2X-s87SFAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"" width=""90"" height=""135"" 
+                     style=""border-radius: 8px; margin-right: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"">
+                <div style=""flex: 1;"">
+                    <h3 style=""margin: 0 0 8px 0; color: #1f2937;"">5. And the Envelope, Please...</h3>
+                    <p style=""margin: 0 0 4px 0; color: #6b7280; font-size: 14px;"">
+                        by <b>Barbara Bretton;Emilie Rose;Isabel Sharpe</b>
+                    </p>
+                    <p style=""margin: 0; color: #059669; font-weight: bold;"">
+                        ⭐ 3.6/5 | 📊 20%
+                    </p>
+                </div>
+            </div>
+            </div>",2026-01-13 15:04:06.022080
